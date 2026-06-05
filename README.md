@@ -41,6 +41,9 @@ Build complete web applications from scratch — React/Next.js frontends, Supaba
 ### 🌐 WordPress & Shopify Sites
 Build, optimize, and maintain WordPress and Shopify stores — performance tuning, SEO, custom themes, plugin integration.
 
+### 🛡️ SOC / SIEM
+Set up and operate security monitoring pipelines — ELK Stack (Elasticsearch, Logstash, Kibana), log ingestion, alert rules, and incident detection. Threat hunting, IOC analysis, and security event correlation for real-time visibility into infrastructure.
+
 ### 🖥️ Server Administration & Networking
 Linux/Windows server setup and hardening, VPN configuration, NGINX, DNS/TLS management, network monitoring.
 
