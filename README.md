@@ -18,24 +18,31 @@
 
 ## What I do
 
-I design and deploy **end-to-end automation systems** — from cloud infrastructure to AI-powered workflows — so businesses can scale without scaling their headcount.
+I'm a **DevSecOps engineer** and **full-stack developer** who also builds AI-powered automation systems and ships production SaaS products. I work across the full stack — from cloud infra to frontend — which means I can own an entire project end-to-end, not just one layer of it.
 
-My background spans **DevSecOps engineering**, **cloud architecture**, and **no-code/low-code automation**. I don't just build automations; I build production-grade systems with proper security, monitoring, and CI/CD.
-
-> **Currently building:** [**Otomy**](https://otomy.fr) — an AI-automation SaaS platform for French and Arabic-speaking SMBs. Subscriptions, DFY services, and self-serve automation templates.
+> **Currently building:** [**Otomy**](https://otomy.fr) — an AI-automation SaaS platform for French and Arabic-speaking SMBs.
 
 ---
 
 ## Services
 
-| What clients hire me for | Stack |
-|---|---|
-| n8n workflow automation & AI integrations | n8n · OpenAI · Webhooks · REST APIs |
-| Cloud infrastructure (IaC) | AWS · Azure · Terraform · Ansible |
-| CI/CD pipeline setup | GitHub Actions · GitLab CI · Docker |
-| Security audits & hardening | OWASP · IAM · SSH · ELK Stack |
-| Full-stack web apps | React · Next.js · Supabase · Stripe |
-| SaaS MVP builds | Next.js · Supabase · Cloudflare · Netlify |
+### ⚙️ Automation & AI Workflows
+Design and deploy complex n8n pipelines, connect APIs, integrate LLMs (OpenAI, Claude), and build workflows that run autonomously — lead nurturing, invoicing, data sync, content publishing, and more.
+
+### ☁️ Cloud Infrastructure & DevOps
+Provision and manage cloud environments on AWS and Azure using Terraform and Ansible. Set up CI/CD pipelines (GitHub Actions, GitLab CI), containerize with Docker/Kubernetes, and configure monitoring with ELK Stack.
+
+### 🔒 Security Audits & Hardening
+Perform security assessments on web apps and infrastructure — OWASP testing, IAM policy review, SSH hardening, secrets management, network scanning. Deliver actionable reports with fixes.
+
+### 🏗️ Full-Stack Web Apps & SaaS MVPs
+Build complete web applications from scratch — React/Next.js frontends, Supabase backends, Stripe payments, multi-language support (FR/EN/AR). I've shipped real SaaS products, not just demos.
+
+### 🌐 WordPress & Shopify Sites
+Build, optimize, and maintain WordPress and Shopify stores — performance tuning, SEO, custom themes, plugin integration.
+
+### 🖥️ Server Administration & Networking
+Linux/Windows server setup and hardening, VPN configuration, NGINX, DNS/TLS management, network monitoring.
 
 ---
 
