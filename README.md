@@ -83,7 +83,7 @@ Linux/Windows server setup and hardening, VPN configuration, NGINX, DNS/TLS mana
 ## Projects
 
 ### [Otomy](https://otomy.fr)
-SaaS platform for French and Arabic-speaking SMBs. Combines an automation catalog, managed services, and business tools under one product. Clients subscribe to workflows that handle their operations: lead follow-ups, invoicing, inventory, content publishing, and more. Stack: **Next.js · Supabase · n8n · Stripe · Cloudflare**.
+SaaS platform for French, English and Arabic-speaking SMBs. Combines an automation catalog, managed services, and business tools under one product. Clients subscribe to workflows that handle their operations: lead follow-ups, invoicing, inventory, content publishing, and more. Stack: **Next.js · Supabase · n8n · Stripe · Cloudflare**.
 
 ### ArtyDrop · Photo Gallery Delivery
 Secure, branded gallery delivery platform for professional photographers. Clients receive their photos via a polished, password-protected link. Stack: **Supabase · Netlify · Stripe · GitHub Actions**.
@@ -105,10 +105,10 @@ Full digital management suite for restaurants: digital menu, order tracking, bil
 
 ## About
 
-- **Master's in Cybersecurity & Cloud Computing**, IPSSI Paris (2025)
+- **Master's in Cybersecurity & Cloud Computing**, IPSSI Paris
 - **Trilingual**: French (native) · English (TOEIC 910/990) · Arabic (native)
 - Based in **Île-de-France, France**
-- 2× European BJJ Champion · 13× Algerian Kempo Champion · Photographer
+- 2× European BJJ Champion · 13× Algerian Kempo Champion · 1× French BJJ Champion · Photographer
 
 ---
 
