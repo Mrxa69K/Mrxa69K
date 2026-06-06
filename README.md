@@ -97,7 +97,6 @@ Full digital management suite for restaurants: digital menu, order tracking, bil
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mrxa69K&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=C6F24E&icon_color=C6F24E&text_color=ffffff&bg_color=0d1117" />
 <img height="160" src="https://streak-stats.demolab.com?user=Mrxa69K&theme=dark&hide_border=true&background=0d1117&ring=C6F24E&fire=C6F24E&currStreakLabel=C6F24E&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
 
 </div>
