@@ -4,7 +4,7 @@
 
 [![Upwork](https://img.shields.io/badge/Upwork-Available%20for%20hire-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~018384abf71290980e)
 [![Otomy](https://img.shields.io/badge/Otomy.fr-My%20SaaS-C6F24E?style=for-the-badge&logo=vercel&logoColor=black)](https://otomy.fr)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slimanimelissa69@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@otomy.fr)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=C6F24E&center=true&vCenter=true&width=500&lines=Building+systems+that+run+your+business+while+you+sleep.;Cloud+%7C+DevSecOps+%7C+Automation+%7C+Full-Stack+%7C+Security;Based+in+Paris+%F0%9F%87%AB%F0%9F%87%B7+%7C+FR+%2F+EN+%2F+AR)](https://git.io/typing-svg)
 
